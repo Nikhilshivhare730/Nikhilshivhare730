@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Nikhil_shivhare7/"><img src="https://img.shields.io/badge/LeetCode-1700%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/nikhilshixqx4/"><img src="https://img.shields.io/badge/GeeksforGeeks-250%2B%20Qs-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/nikhilshixqx4/"><img src="https://img.shields.io/badge/GeeksforGeeks-2012%2B%20Rating-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/nik_code11"><img src="https://img.shields.io/badge/CodeChef-1600%2B%20Rating-blue?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/NikhilShivhare"><img src="https://img.shields.io/badge/CodeForces-1150%2B%20Rating-lightgrey?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
