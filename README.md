@@ -121,13 +121,7 @@
   <a href="https://github.com/Nikhilshivhare730"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<div align="left" width="10">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-Shivhare/Nikhil-Shivhare/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-Shivhare/Nikhil-Shivhare/output/github-contribution-grid-snake-dark.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikhil-Shivhare/Nikhil-Shivhare/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
+
 
 
 
