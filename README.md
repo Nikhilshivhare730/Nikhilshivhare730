@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nikhil Shivhare 👨🏻‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=2484FF&center=true&vCenter=true&width=800&lines=Software+Engineer+Intern+%7C+BlueStock+Fintech;B.Tech+CS+Student;DSA+%7C+Web+Dev+Enthusiast;Always+Learning+New+Tech..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=2484FF&center=true&vCenter=true&width=800&lines=Problem+Setter+Intern+%7C+CodeHurdle;B.Tech+CS+Student;DSA+%7C+Web+Dev+Enthusiast;Always+Learning+New+Tech..." alt="Typing SVG" />
 </p>
 
 ---
